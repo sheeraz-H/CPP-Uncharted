@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int mian()
+int main()
 {
 
   vector<int> v;
